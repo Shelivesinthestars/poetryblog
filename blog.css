@@ -1,6 +1,27 @@
 header{
-    background: indigo;
     width: 100%;
     text-align: center;
     color: white;
+    
+}
+
+body{
+    background: indigo;
+    color: whitesmoke;
+}
+
+.one{
+    font-family: 'Pacifico', cursive;
+    line-height: 25px;
+}
+
+#paraone{
+    font-family: 'Charmonman', cursive;
+    font-weight: 400; 
+}
+
+section h2{
+    font-family: 'Charmonman', cursive;
+    font-weight: bolder;
+    font-size: 2em;
 }
